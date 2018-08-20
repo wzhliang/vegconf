@@ -1,0 +1,18 @@
+tags:
+ slideshow:
+   loop: true
+   transition: slide
+   # none, fade, slide, convex, concave and zoom.
+   theme: serif
+   # beige.css
+   # black.css
+   # blood.css
+   # league.css
+   # moon.css
+   # night.css
+   # serif.css
+   # simple.css
+   # sky.css
+   # solarized.css
+   # white.css
+   headingLevel: 4
